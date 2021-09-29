@@ -8,10 +8,10 @@ const styles = StyleSheet.create({
 		backgroundColor: 'white',
 	},
 	image: {
-		height: 150,
+		height: 175,
 		resizeMode: 'contain',
 	},
-	balanceContianer: {
+	balanceContainer: {
 		marginVertical: 20,
 		width: '100%',
 	},
